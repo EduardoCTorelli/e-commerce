@@ -8,13 +8,15 @@ mas também o estilo e a cultura que o acompanham.
 
 ![imagem pag inicial](https://github.com/EduardoCTorelli/e-commerce/blob/master/miniaturas/foto%20site.png)
 
+No StyleKicks, mergulhe em um universo de moda urbana onde cada passo é uma
+declaração de estilo. Somos mais do que apenas uma loja de tênis, somos um 
+santuário para os amantes de calçados, uma plataforma onde a cultura sneaker
+é celebrada e elevada.
+
 ## Nossos modelos que trabalhamos
 
 Nossa empressa trabalha com diversos marcas e modelos de tênis,
-tais comos:
--Nike
--Adidas
--Puma
+tais comos: Nke, Adidas, Puma entre outros modelos.
 
 ## Desenvolvendor
 Desenvolvido por Eduardo Torelli
