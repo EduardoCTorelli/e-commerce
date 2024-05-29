@@ -16,7 +16,11 @@ santuário para os amantes de calçados, uma plataforma onde a cultura sneaker
 ## modelos que trabalhamos
 
 Nossa empressa trabalha com diversos marcas e modelos de tênis,
-tais comos: Nke, Adidas, Puma entre outros modelos.
+tais comos: 
+
+## ADIDAS
+
+[img adidas]()
 
 ## Desenvolvendor
 Desenvolvido por Eduardo Torelli
