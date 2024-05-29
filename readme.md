@@ -13,7 +13,7 @@ declaração de estilo. Somos mais do que apenas uma loja de tênis, somos um
 santuário para os amantes de calçados, uma plataforma onde a cultura sneaker
 é celebrada e elevada.
 
-## Nossos modelos que trabalhamos
+## modelos que trabalhamos
 
 Nossa empressa trabalha com diversos marcas e modelos de tênis,
 tais comos: Nke, Adidas, Puma entre outros modelos.
