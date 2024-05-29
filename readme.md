@@ -20,7 +20,12 @@ tais comos:
 
 ## ADIDAS
 
-[img adidas]()
+[img adidas](https://github.com/EduardoCTorelli/e-commerce/blob/master/miniaturas/foto2.png)
+
+## PUMA
+
+[img puma](https://github.com/EduardoCTorelli/e-commerce/blob/master/miniaturas/foto3.png)
+
 
 ## Desenvolvendor
 Desenvolvido por Eduardo Torelli
