@@ -27,5 +27,5 @@ tais comos:
 ![img puma](https://github.com/EduardoCTorelli/e-commerce/blob/master/miniaturas/foto3.png)
 
 
-## Desenvolvendor
-Desenvolvido por Eduardo Torelli
+## Desenvolvendores
+Desenvolvido por Eduardo Torelli e Enzo losi.
